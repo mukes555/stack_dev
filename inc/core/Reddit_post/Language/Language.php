@@ -1,0 +1,18 @@
+<?php return array (
+  'Search' => 'Search',
+  '/r/username' => '/r/username',
+  'Just now' => 'Just now',
+  '0 comments' => '0 comments',
+  'Award' => 'Award',
+  'Share' => 'Share',
+  'Save' => 'Save',
+  'Title' => 'Title',
+  'Enter title' => 'Enter title',
+  'Success' => 'Success',
+  'Planning and Scheduling' => 'Planning and Scheduling',
+  '%s scheduling & report' => '%s scheduling & report',
+  'A title for the post on Reddit is mandatory' => 'A title for the post on Reddit is mandatory',
+  'Reddit just support posting as image' => 'Reddit just support posting as image',
+  'Customize system interface' => 'Customize system interface',
+  'Reddit' => 'Reddit',
+);

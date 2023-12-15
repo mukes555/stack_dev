@@ -1,0 +1,18 @@
+<?php return array (
+  'Reddit API Configuration' => 'Reddit API Configuration',
+  'Reddit client id' => 'Reddit client id',
+  'Reddit client secret' => 'Reddit client secret',
+  'Callback URL:' => 'Callback URL:',
+  'Click this link to create Reddit app:' => 'Click this link to create Reddit app:',
+  'Are you sure to delete this items?' => 'Are you sure to delete this items?',
+  'Search' => 'Search',
+  'Add Reddit profiles' => 'Add Reddit profiles',
+  'Discard' => 'Discard',
+  'Add profile' => 'Add profile',
+  'If you don\'t see your profiles above, you might try to reconnec, re-accept all permissions, and ensure that you\'re logged in to the correct profile.' => 'If you don\'t see your profiles above, you might try to reconnec, re-accept all permissions, and ensure that you\'re logged in to the correct profile.',
+  'Re-connect with Reddit' => 'Re-connect with Reddit',
+  'No profile to add' => 'No profile to add',
+  'Please select a profile to add' => 'Please select a profile to add',
+  'Success' => 'Success',
+  'Reddit profiles' => 'Reddit profiles',
+);
