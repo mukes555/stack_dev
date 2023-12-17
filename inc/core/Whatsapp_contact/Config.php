@@ -12,12 +12,5 @@
     'id' => 'contact',
     'name' => 'Contact',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1010,
-    'name' => 'WA Contact',
-  ),
   'show_plan' => false,
 );

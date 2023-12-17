@@ -12,11 +12,5 @@
     'id' => 'template',
     'name' => 'template',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1020,
-    'name' => 'WA Button template',
-  ),
+  'show_plan' => false,
 );

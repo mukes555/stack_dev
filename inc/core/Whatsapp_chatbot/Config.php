@@ -12,15 +12,9 @@
     'id' => 'features',
     'name' => 'Features',
   ),
-  'js' =>
-  array(
+  'js' => 
+  array (
     0 => 'Assets/whatsapp_chatbot.js',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1070,
-    'name' => 'WA Chatbot',
-  ),
+  'show_plan' => false,
 );

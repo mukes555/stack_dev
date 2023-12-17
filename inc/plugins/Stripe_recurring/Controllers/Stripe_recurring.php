@@ -22,6 +22,7 @@ class Stripe_recurring extends \CodeIgniter\Controller
 
     public function index($ids = "")
     {
+       
         try {
             if(!get_user("id")){
                 redirect_to( base_url("login"), true);

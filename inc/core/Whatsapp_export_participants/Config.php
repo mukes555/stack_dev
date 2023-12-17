@@ -12,11 +12,5 @@
     'id' => 'features',
     'name' => 'Features',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1040,
-    'name' => 'WA Export participants',
-  ),
+  'show_plan' => false,
 );

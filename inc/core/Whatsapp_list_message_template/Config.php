@@ -12,11 +12,5 @@
     'id' => 'template',
     'name' => 'Templates',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1030,
-    'name' => 'WA List message template',
-  ),
+  'show_plan' => false,
 );

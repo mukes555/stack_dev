@@ -12,11 +12,5 @@
     'id' => 'features',
     'name' => 'Features',
   ),
-  'menu' => 
-  array (
-    'tab' => 2,
-    'type' => 'top',
-    'position' => 1060,
-    'name' => 'WA Bulk messaging',
-  ),
+  'show_plan' => false,
 );

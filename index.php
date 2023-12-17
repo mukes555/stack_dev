@@ -1,5 +1,5 @@
 <?php
-$installation = true;
+$installation = false;
 if($installation){
     header("Location: ./install/index.php");
     exit;

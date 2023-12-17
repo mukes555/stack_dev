@@ -1,0 +1,671 @@
+CRITICAL - 2023-12-17 13:24:54 --> Undefined property: Plugins\Razorpay\Controllers\Razorpay::$input
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd852', '1')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-17 13:25:06 --> Undefined property: Plugins\Razorpay\Controllers\Razorpay::$input
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd852', '1')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-17 13:37:34 --> Invalid file: razorpay/Razorpay.php
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('razorpay/Razorp...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('razorpay/Razorp...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('razorpay/Razorp...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd852', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 13:37:54 --> Invalid file: razorpay/Razorpay.php
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('razorpay/Razorp...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('razorpay/Razorp...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('razorpay/Razorp...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd852', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 13:38:09 --> Invalid file: razorpay/Razorpay.php
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('razorpay/Razorp...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('razorpay/Razorp...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('razorpay/Razorp...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd852', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 14:53:28 --> Class "Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Payment\Controllers\Payment->success()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Payment\Controllers\Payment))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 14:53:52 --> Class "Plugins\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Payment\Controllers\Payment->success()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Payment\Controllers\Payment))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 14:54:25 --> Class "inc\plugins\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Payment\Controllers\Payment->success()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Payment\Controllers\Payment))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 14:55:16 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Payment\Controllers\Payment->success()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Payment\Controllers\Payment))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 14:56:41 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 14:57:17 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 15:03:39 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 15:13:13 --> Call to undefined function pritn_r()
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('Plugins\\Razorpa...', Array)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd851', '1')
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:13:16 --> Call to undefined function pritn_r()
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('Plugins\\Razorpa...', Array)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd851', '1')
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:13:26 --> Call to a member function getSegments() on null
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(62): view('Plugins\\Razorpa...', Array)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->index('de39a2bd851', '1')
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:18:23 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:18:48 --> Class "Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:18:57 --> Class "Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:21:57 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:25:25 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:26:40 --> Class "Inc\Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:29:12 --> Class "Plugins\Razorpay\Controllers\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:29:34 --> Class "Plugins\Razorpay\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:29:49 --> Class "Plugins\Razorpay\Controllers\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:30:12 --> Class "Plugins\Razorpay\Controllers\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:30:33 --> Class "Controllers\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:30:52 --> Class "Controllers\CodeIgniter\Controller" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Plugins\\Razorpa...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Plugins\\Razorpa...')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(797): class_exists('\\Plugins\\Razorp...', true)
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 15:31:11 --> Class "Inc\Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:31:31 --> Class "Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:31:56 --> Class "Plugins\Razorpay\Controllers\Views\Razorpay\Api\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:32:05 --> Class "Plugins\Razorpay\Controllers\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:32:20 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:32:35 --> Class "Plugins\Razorpay\Controllers\Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:32:44 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:34:04 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(809): Plugins\Razorpay\Controllers\Razorpay->__construct()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:34:26 --> Class "Plugins\Razorpay\Views\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:35:22 --> Class "Plugins\Razorpay\Views\razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->success('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:46:36 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(127): json_decode(Array)
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->complete('de39a2bd851', '1')
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-12-17 15:48:35 --> Call to a member function getState() on null
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->complete('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:48:56 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->complete('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 15:49:09 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->complete('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 16:17:42 --> Cannot declare class ComposerAutoloaderInit5536b90d10e1dd2da999d31b6d23e461, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:02:45 --> Class "Plugins\Razorpay\Controllers\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 17:03:04 --> Class "Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 17:03:27 --> Class "Libraries\Razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 17:03:38 --> Class "Libraries\razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 17:03:45 --> Class "razorpay\Api\Api" not found
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-12-17 17:09:43 --> Invalid file: Plugins\Razorpay\Views\razorpay/Recurring.php
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Plugins\\Razorpa...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(129): view('Plugins\\Razorpa...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 17:12:38 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:13:05 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:13:19 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:14:02 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:17:49 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(132): view('Plugins\\Razorpa...', Array)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 17:18:01 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(132): view('Plugins\\Razorpa...', Array)
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-17 17:18:21 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:19:03 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:29:07 --> syntax error, unexpected token ";", expecting ")"
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(132): view('Plugins\\Razorpa...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 17:29:39 --> syntax error, unexpected token ";", expecting ")"
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('Plugins\\Razorpa...', Array, true)
+#2 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\inc\plugins\Razorpay\Controllers\Razorpay.php(132): view('Plugins\\Razorpa...', Array)
+#3 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(832): Plugins\Razorpay\Controllers\Razorpay->recurring('de39a2bd851', '1')
+#4 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(Plugins\Razorpay\Controllers\Razorpay))
+#5 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-12-17 17:32:18 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:32:43 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:33:06 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:34:11 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:37:11 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:37:56 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:38:28 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:48:39 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:49:27 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:49:47 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:50:20 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:51:59 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:53:48 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:57:50 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:58:31 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:58:57 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 17:59:48 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:00:04 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:00:39 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:02:53 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:03:06 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:04:39 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:05:52 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:06:22 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:06:46 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-17 18:07:48 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 C:\xampp\htdocs\mk\stack_dev-main\stack_dev\vendor\codeigniter4\framework\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
